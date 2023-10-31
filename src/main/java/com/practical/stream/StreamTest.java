@@ -8,8 +8,6 @@ public class StreamTest {
         Integer[] intArray = new Integer[] {1,2,3,4,5};
         List numberList = Arrays.asList(intArray);
 
-
-
         // 초창기 방식
 //        for(int i = 0; i < numberList.size(); i++) {
 //            System.out.println("초창기 방식 :" + i);
